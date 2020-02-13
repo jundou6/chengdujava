@@ -12,6 +12,7 @@ import javax.persistence.*;
 @AllArgsConstructor
 @NoArgsConstructor
 public class User {
+//  我修改了源码 
     @Id
     @GeneratedValue
     private Long id;
