@@ -13,6 +13,7 @@ import javax.persistence.*;
 @NoArgsConstructor
 public class User {
 //  我不想能不能赢得爱情，既然钟情于玫瑰便敢于热情的奉送 
+//  隔壁老王在炼腰
     @Id
     @GeneratedValue
     private Long id;
