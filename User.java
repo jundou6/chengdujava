@@ -21,4 +21,6 @@ public class User {
     private String name;
     @Column(length = 6,nullable = true)
     private Integer age;
+    
+   private String address;
 }
