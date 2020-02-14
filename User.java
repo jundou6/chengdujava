@@ -12,7 +12,7 @@ import javax.persistence.*;
 @AllArgsConstructor
 @NoArgsConstructor
 public class User {
-//  我修改了源码 
+//  我不想能不能赢得爱情，既然钟情于玫瑰便敢于热情的奉送 
     @Id
     @GeneratedValue
     private Long id;
